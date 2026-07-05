@@ -154,4 +154,4 @@ AppendMenu(trayMenu, MF_STRING, 6, L"Disable autostart");
                 return DefWindowProc(hwnd, msg, wParam, lParam);
         }
       }
-      //  By Roma.
+  
